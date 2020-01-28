@@ -1,1 +1,0 @@
-#This is a curated repo about technology resources
