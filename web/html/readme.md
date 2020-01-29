@@ -8,6 +8,7 @@
 
  - [HTML crash course by Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
  - [HTML crash course by Clever Programmer](https://www.youtube.com/watch?v=FNGoExJlLQY)
+ - [HTML full video by freecodecamp](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 
 ## Video (Playlist)
 
