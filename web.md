@@ -19,7 +19,7 @@ Tutorial: [Programming With Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 CrashCourse: [Traversy Media](https://www.youtube.com/watch?v=e1IyzVyrLSU)\
 Tutorial:[Telusko](https://youtu.be/OTmQOjsl0eg) \
 Playlist: [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)\
-Live Project: [Pretty Printed](https://youtu.be/v7xjdXWZafY)
+Live Project: [Pretty Printed](https://youtu.be/v7xjdXWZafY), [CodAffection](https://youtu.be/N6jzspc2kds)
 
 ### Bootstrap:
 CrashCourse: [DesignCourse](https://youtu.be/hnCmSXCZEpU) \
